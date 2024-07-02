@@ -1,6 +1,7 @@
 # Multi-level-marketing.github.io
 
 MLM Project
+
 📖 Introduction
 Welcome to the MLM (Multi-Level Marketing) Project! This project is a comprehensive solution for managing MLM networks using PHP and MySQL. It provides a web application that allows users to view their network, track earnings, and manage their accounts.
 
@@ -35,7 +36,7 @@ To get a copy of this project up and running on your local machine, follow these
 
 Clone the Repository:
 
-git clone https://github.com/sidd-tiwari/mlm-project.git
+git clone https://github.com/sidd-tiwari/multi-level-marketing.github.io.git
 Navigate to the Project Directory:
 
 cd mlm-project
