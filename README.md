@@ -1,6 +1,7 @@
 # Multi-level-marketing.github.io
 
 MLM Project
+
 📖 Introduction
 Welcome to the MLM (Multi-Level Marketing) Project! This project is a comprehensive solution for managing MLM networks using PHP and MySQL. It provides a web application that allows users to view their network, track earnings, and manage their accounts.
 
