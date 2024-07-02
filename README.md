@@ -36,7 +36,7 @@ To get a copy of this project up and running on your local machine, follow these
 
 Clone the Repository:
 
-git clone https://github.com/sidd-tiwari/mlm-project.git
+git clone https://github.com/sidd-tiwari/multi-level-marketing.github.io.git
 Navigate to the Project Directory:
 
 cd mlm-project
