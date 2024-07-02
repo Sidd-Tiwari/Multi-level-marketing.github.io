@@ -136,6 +136,19 @@ mlm-project/
 ├── logout.php
 └── README.md
 
+📸 Screenshots
+Here are some screenshots of the application:
+
+### Home Page
+![Home Page](/images/home.png)
+
+### MLM Tree View
+![MLM Tree View](/images/tree.png)
+
+### User Dashboard
+![User Dashboard](/images/dashboard.png)
+
+
 🤝 Contributing
 We welcome contributions to this project! If you’d like to contribute, please follow these steps:
 
