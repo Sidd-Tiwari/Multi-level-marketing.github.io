@@ -41,12 +41,12 @@ function sendIncomeEmail($email, $amount, $total_amount) {
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'gt579175@gmail.com';
-        $mail->Password = 'wxrmvjyizornevaj'; // Avoid hardcoding, use environment variables
+        $mail->Username = 'Email';
+        $mail->Password = 'App password'; // Avoid hardcoding, use environment variables
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port = 587;
 
-        $mail->setFrom('gt579175@gmail.com', 'MLM Website');
+        $mail->setFrom('Email', 'MLM Website');
         $mail->addAddress($email);
         $mail->Subject = 'Income Payment Details';
         $mail->Body = "Hello,

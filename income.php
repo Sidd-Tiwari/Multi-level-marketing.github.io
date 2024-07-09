@@ -16,12 +16,12 @@ function sendIncomeNotification($email, $amount, $total_income, $today_income) {
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'gt579175@gmail.com';
-        $mail->Password = 'wxrmvjyizornevaj'; // Use environment variables or configuration for the password
+        $mail->Username = 'EMAIL';
+        $mail->Password = 'password'; // Use environment variables or configuration for the password
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port = 587;
 
-        $mail->setFrom('gt579175@gmail.com', 'MLM Website');
+        $mail->setFrom('Email', 'MLM Website');
         $mail->addAddress($email);
 
         $mail->isHTML(true);
