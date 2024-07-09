@@ -82,7 +82,7 @@ Login:
 
 Use the credentials for the admin user or create a new user via the registration page.
 The default admin credentials are:
-Username: golu
+Username: Admin
 Password: 1234
 🛠 Configuration
 Configuration Files:
