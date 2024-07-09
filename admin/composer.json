@@ -1,0 +1,20 @@
+{
+    "name": "golu/mlm",
+    "description": "MLM project for sending emails",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Golu\\Mlm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Siddharth"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
