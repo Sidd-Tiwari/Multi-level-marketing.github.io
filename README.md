@@ -4,8 +4,9 @@ Welcome to the MLM (Multi-Level Marketing) Project! This project is a comprehens
 
 # 🚀 Features<br>
 ### User Dashboard:
-<br> View your income,<br> available pins,<br> and network tree.<br>
-MLM Tree Structure: Visual representation of your network with clickable nodes.<br>
+<br> View your income, available pins, and network tree.<br>
+MLM Tree Structure:
+<br> Visual representation of your network with clickable nodes.<br>
 Income Tracking:<br> Track daily, current, and total income.<br>
 Pin Management: <br>View and manage available pins for distribution.<br>
 Search Functionality:<br> Search for users by email to view their network tree.<br><br>
