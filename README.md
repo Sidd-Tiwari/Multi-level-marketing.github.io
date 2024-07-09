@@ -149,6 +149,11 @@ Here are some screenshots of the application:
 ### User Dashboard
 ![User Dashboard](/images/dashboard.png)
 
+### User Payment
+![User Dashboard](/images/payment_notification.png)
+
+### User Joining
+![User Dashboard](/images/join_notification.png)
 
 🤝 Contributing
 We welcome contributions to this project! If you’d like to contribute, please follow these steps:
